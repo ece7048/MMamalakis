@@ -1,0 +1,306 @@
+                                       Dr. Michail Mamalakis
++44 7562576321 | mm2703@cam.ac.uk | LinkedIn | GitHub | Personal website | YouTube | ORCID: 0000-0002-4276-4119
+
+R ESEARCH P ROFILE
+• AI and computational-biology researcher developing explainable, robust and clinically relevant machine-learning
+  methods for biomedical discovery and translational medicine.
+• Research interests include foundation models, multimodal AI, medical-image analysis, single-cell and
+  histology-informed modelling, protein language models, mechanistic interpretability and trustworthy AI.
+• Current work focuses on paediatric brain cancer, neuroscience, multi-scale biomedical data integration and the
+  use of explanations to identify clinically and biologically meaningful patterns.
+
+E DUCATION
+PhD in Computer Science                                                                              Mar 2018 - Mar 2022
+University of Sheffield; major: deep learning and machine learning; minor: medical-image analysis            Sheffield, UK
+MSc in Biomedical Engineering                                                                       Aug 2015 - May 2017
+University of Patras                                                                                       Achaia, Greece
+MEng in Electrical Engineering                                                                      Aug 2013 - May 2015
+University of Patras; minor: computer science                                                              Achaia, Greece
+BEng in Electrical Engineering                                                                      Aug 2008 - May 2013
+University of Patras; minor: computer science                                                              Achaia, Greece
+
+A CADEMIC AND R ESEARCH A PPOINTMENTS
+Assistant Research Professor                                                                            Oct 2025 - Present
+University of Cambridge / CRUK Cambridge Institute                                                         Cambridge, UK
+• AI specialist working across neuroscience, paediatric and adult brain tumours, medical-image analysis and
+  bioinformatics.
+• Develops deep-learning, explainable-AI, machine-learning and software-engineering methods for biomedical
+  research.
+Affiliated Lecturer                                                                           Oct 2025 - Present
+Department of Computer Science, University of Cambridge                                                    Cambridge, UK
+• Course director and lead lecturer for Principles of AI-driven Neuroscience and Translational Biomedicine:
+  https://www.cl.cam.ac.uk/teaching/2526/L205/.
+• Teaching covers deep learning, explainable AI, machine learning, neuroscience and bioinformatics.
+Research Associate                                                                                    Jan 2024 - Sep 2025
+Department of Psychiatry, University of Cambridge / E-BRAIN WP2 Grant                                      Cambridge, UK
+• AI specialist in neuroscience, brain-tumour research, medical-image analysis and computer vision.
+• Developed deep-learning, explainable-AI, machine-learning and software-engineering methods for biomedical
+  applications.
+Research Associate                                                                                    Oct 2022 - Jan 2024
+Department of Psychiatry, University of Cambridge / MRC Grant                                              Cambridge, UK
+• AI specialist in neuroscience, medical-image analysis and computer vision.
+• Worked on deep learning, explainability, machine learning and software engineering for clinical and neuroscience
+  datasets.
+Research Associate                                                                             Sep 2021 - Oct 2022
+IICD Department, University of Sheffield                                                                     Sheffield, UK
+• AI specialist in medical-image analysis and computer vision.
+• Worked on deep learning, explainability, uncertainty estimation, machine learning and software engineering.
+Co-Founder and Researcher                                                                            Dec 2016 - May 2018
+Patra/Achaia                                                                                        Western Greece, Greece
+• Developed medical signal-processing methods for wearable ECG monitoring, including noise reduction,
+  ECG-monitoring architecture, accuracy evaluation and validation against clinical data.
+• Worked as a medical signal-processing research engineer.
+
+P ROJECTS AND R ESEARCH
+
+
+
+
+                                                             1
+scRNA-seq and Histology-Based Multi-Scale AI in Paediatric Brain Cancer                                               Sep 2025 - Present
+GNNs, LLMs, CNNs, evaluation protocols, representation learning, reasoning, explainable AI and mechanistic interpretability.
+University of Cambridge, CRUK-CI.
+MRI-Imaging Foundation Model for Neuroscience                                                                         Sep 2025 - Present
+Diffusion transformers, Swin-UNET, CNNs, evaluation protocols, explainable AI and mechanistic interpretability.
+University of Cambridge.
+Explainable Foundation Model for Neuroscience                                                                         Dec 2024 - Present
+GNNs, LLMs, CNNs, genetics, evaluation protocols, explainable AI and mechanistic interpretability.
+University of Cambridge.
+Protein and Clinical Language Models with Mechanistic Interpretability                                                Dec 2024 - Present
+Evaluation protocols, explainable AI, protein sequences and mechanistic interpretability.
+University of Cambridge; Shanghai Jiao Tong University.
+E-BRAIN WP2: Brain-Tumour Dataset Collection and Evaluation                                                       Mar 2024 - Mar 2025
+Computer vision, federated learning, explainable AI and brain data science.
+University of Cambridge.
+Explainable AI Frameworks to Uncover New Patterns in Neuroscience                                                     Oct 2022 - Present
+Explainable AI, uncertainty estimation, 3D CNNs, 3D vision transformers, GNNs and self-supervised learning.
+University of Cambridge; related publications: [1], [2], [5], [6], [17].
+Protein Language Model for Protein-Sequence Design                                                                 Oct 2023 - Dec 2024
+Evaluation protocols, explainable AI, protein sequences and scientific writing.
+University of Cambridge; Johns Hopkins University; Shanghai Jiao Tong University; related publications: [12], [13].
+Detecting Lung Disease in 3D Space Using Uncertainty Estimation                                                    Oct 2021 - Oct 2022
+Automatic pipeline development, 3D patch extraction, explainable AI and uncertainty estimation.
+University of Sheffield; related publications: [4], [9].
+Cross-University Collaboration for AI-Driven Diagnostic Solutions for COVID-19                                      Jun 2019 - Jun 2022
+Medical image-analysis research scientist and co-founder.
+Universities of Sheffield, Brighton, Glasgow, Oxford and Lincoln; related publication: [9].
+PhD Thesis in Computer Science / Computer Vision                                                                  Mar 2018 - Oct 2022
+Medical-image analysis and automatic segmentation of the left ventricle with scar using machine learning and deep learning.
+University of Sheffield; related publications: [7], [10], [11].
+MSc Thesis in Biomedical Engineering                                                                                Sep 2015 - Jun 2017
+Neuromuscular excitation modelling and simulation of the human knee using FEA dynamics and OpenSim.
+University of Patras.
+Undergraduate Thesis in Electrical Engineering and Computer Science                                                 Sep 2013 - Jun 2015
+Electromagnetic dynamic study of cage-rotor AC machines and signal diagnostic errors using FEM.
+University of Patras.
+
+P UBLICATIONS
+Asterisks denote equal contribution where indicated by the publication record. Original publication numbers are retained because they are
+cited in the Projects and Research section.
+
+
+Selected Top Publications (Last Five Years)
+S1     Mamalakis M., Mamalakis A., et al. Solving the Enigma: Deriving Optimal Explanations of Deep Networks. AI Open, 2025.
+       https://doi.org/10.1016/j.aiopen.2025.02.001
+S2     Mamalakis M., Dwivedi K., Sharkey M., et al. A Transparent Artificial Intelligence Framework to Assess Lung Disease in
+       Pulmonary Hypertension. Scientific Reports, 13, 3812 (2023). https://doi.org/10.1038/s41598-023-30503-4
+S3     Mamalakis M., Garg P., Nelson T., et al. Artificial Intelligence Framework with Traditional Computer Vision and Deep Learning
+       Approaches for Optimal Automatic Segmentation of Left Ventricle with Scar. Artificial Intelligence in Medicine, 143, 102610 (2023).
+       https://doi.org/10.1016/j.artmed.2023.102610
+S4    Abulikemu, Azevedo, Mamalakis M.*, Suckling J.* Geometry-Guided Generative Representation for Functional Brain Graphs.
+      Accepted at ICML 2026. https://icml.cc/virtual/2026/poster/62212
+Selected for the University of Birmingham application.
+
+
+Published peer-reviewed articles and conference papers
+[2]    Mamalakis M., Vareilles H., Al-Manea A., et al. An Explainable Three-Dimensional Framework to Uncover Learning Patterns: A
+       Unified Look in Variable Sulci Recognition, Artificial Intelligence in Medicine, Elsevier,
+       Preprint:https://doi.org/10.48550/arXiv.2309.00903.
+[3]    Mamalakis M., Macfarlane S. C., Notley S., et al. Deep Multi-Attention Channels Network to Detect Metastasizing Cells in
+       Fluorescence Microscopy Images. Computers in Biology and Medicine, Elsevier. Preprint:
+       https://doi.org/10.48550/arXiv.2309.00911.
+
+
+
+                                                                     2
+[4]    SELECTED TOP PUBLICATION
+       Mamalakis M., Dwivedi K., Sharkey M., et al. A Transparent Artificial Intelligence Framework to Assess Lung Disease in
+       Pulmonary Hypertension. Scientific Reports, 13, 3812 (2023). https://doi.org/10.1038/s41598-023-30503-4.
+[5]    SELECTED TOP PUBLICATION
+       Mamalakis M., Mamalakis A., et al. Solving the Enigma: Deriving Optimal Explanations of Deep Networks. AI Open, Elsevier,
+       2025. https://doi.org/10.1016/j.aiopen.2025.02.001.
+[7]    SELECTED TOP PUBLICATION
+       Mamalakis M., Garg P., Nelson T., et al. Artificial Intelligence Framework with Traditional Computer Vision and Deep Learning
+       Approaches for Optimal Automatic Segmentation of Left Ventricle with Scar. Artificial Intelligence in Medicine, 143, 102610, 2023.
+       ISSN 0933-3657. https://doi.org/10.1016/j.artmed.2023.102610.
+[8]    Mamalakis M., Banerjee A., Roy S., et al. Deep Multi-Metric Training: The Need for Multi-Metric Curve Evaluation to Avoid
+       Weak Learning. Neural Computing and Applications, 2024. https://doi.org/10.1007/s00521-024-10182-6.
+[9]    Mamalakis M., Swift A. J., Vorselaars B., et al. DenResCov-19: A Deep Transfer Learning Network for Robust Automatic
+       Classification of COVID-19, Pneumonia and Tuberculosis from X-Rays. Computerized Medical Imaging and Graphics, 94, 102008,
+       2021. ISSN 0895-6111. https://doi.org/10.1016/j.compmedimag.2021.102008.
+[10]   Mamalakis M., Garg P., Nelson T., et al. MA-SOCRATIS: An Automatic Pipeline for Robust Segmentation of the Left Ventricle
+       and Scar. Computerized Medical Imaging and Graphics, 93, 101982, 2021. ISSN 0895-6111.
+       https://doi.org/10.1016/j.compmedimag.2021.101982.
+[11]   Mamalakis M., Garg P., Nelson T., et al. Automatic Development of 3D Anatomical Models of Border Zone and Core Scar Regions
+       in the Left Ventricle. Computerized Medical Imaging and Graphics, 103, 102152, 2023. ISSN 0895-6111.
+       https://doi.org/10.1016/j.compmedimag.2022.102152.
+[12]   Shen Y.*, Chen Z.*, Mamalakis M.*, et al. A Finetuning Dataset and Benchmark for Large Language Models on Protein Sequence
+       Understanding. IEEE BIBM Conference 2024. http://arxiv.org/abs/2406.05540.
+[13]   Shen Y.*, Chen Z.*, Mamalakis M.*, et al. TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and
+       Protein Sequences for Protein Engineering. IEEE BIBM 2024. https://arxiv.org/abs/2408.15299.
+[16]   Sansone G., Poologaindran A., Romero-Garcia R., Mamalakis M., et al. Longitudinal Modifications of Gradients and
+       Graph-Theory Measures of Functional MRI Connectivity in Glioma Patients as Potential Markers of Post-Surgical Long-Term
+       Cognitive Outcome. Neuro-Oncology, 2024.
+
+
+Accepted papers
+[1]    Mamalakis M., Vareilles H., et al. The Explanation Necessity for Healthcare AI. Accepted at IEEE CITREx Conference 2025.
+       Preprint: https://arxiv.org/abs/2406.00216.
+[18]   SELECTED TOP PUBLICATION
+       Abulikemu, Azevedo, Mamalakis M.*, Suckling J.* Geometry-Guided Generative Representation for Functional Brain Graphs.
+       Accepted at ICML 2026. https://icml.cc/virtual/2026/poster/62212.
+
+
+Preprints
+[6]    Mamalakis M., et al. Contrastive-Adversarial and Diffusion: Exploring Pre-Training and Fine-Tuning Strategies for Sulcal
+       Identification. arXiv, 2024. https://arxiv.org/abs/2405.19204.
+[15]   Jimenez-Mesa C., Wan Y., Sansone G., Martinez-Murcia F. J., Ramirez J., Liò P., Gorriz J. M., Price S. J., Suckling J.,
+       Mamalakis M. Uncovering Neuroimaging Biomarkers of Brain Tumor Surgery with AI-Driven Methods. arXiv, 2025.
+       https://arxiv.org/abs/2507.04881.
+[17]   Mamalakis M., et al. A Monosemantic Attribution Framework for Stable Interpretability in Clinical Neuroscience Large Language
+       Models. arXiv, 2026. https://www.arxiv.org/abs/2601.17952.
+
+
+Manuscripts under review
+[14]   Cosentino C., Sun Z., Azevedo T., Abulikemu S., Bethlehem R., Marozzo F., Liò P., Mamalakis M. Explainable Deep Learning
+       for Alzheimer’s Disease Diagnosis: An Integrated Clinical Data-Driven Approach. Under review at IEEE Transactions on Neural
+       Networks and Learning Systems.
+
+
+Work in preparation
+[21]   Mamalakis M. et al. A Continually Expandable Foundation Model for Brain MRI. Work in preparation.
+[22]   Mamalakis M. et al. Spatial Cell Embedding and Gene Semantic Fusion. Work in preparation.
+[23]   Mamalakis M. et al. Assessing the Importance of Gene Semantic Fusion in Murine Ependymoma. Work in preparation.
+
+Publication profile: https://scholar.google.com/citations?user=SbRBtk4AAAAJ&hl=en&oi=ao.
+
+
+
+                                                                   3
+S CIENTIFIC R EVIEWER AND E XAMINER E XPERIENCE
+Internal Examiner, PhD Viva                                                                                          Apr 2026
+Cambridge School of Clinical Medicine                                                                           Cambridge, UK
+Examiner, PhD First-Year Report                                                                                      Dec 2025
+Clinical Neurosciences, University of Cambridge                                                                 Cambridge, UK
+External Examiner, MSc Viva                                                                                         Mar 2026
+Department of Computer Science, EPFL                                                                  Lausanne, Switzerland
+Official Reviewer, 2nd Explainable AI World Conference                                                             2024 - 2025
+https://xaiworldconference.com/2024/
+Official Reviewer, MICCAI                                                                                          2022 - 2026
+https://miccai.org/
+Official Reviewer, IEEE Transactions on Medical Imaging                                                            2023 - 2026
+IEEE TMI
+Official Reviewer, IEEE Transactions on Image Processing                                                                 2026
+IEEE TIP
+Official Reviewer, Elsevier Journals                                                                               2021 - 2026
+Medical imaging, computer vision and biomedical AI journals
+EPSRC/UKRI Grant-Application Reviewer                                                                              2023 - 2026
+Reviewed four applications                                                                                                UK
+EPSRC/UKRI Grant-Application Reviewer, UK AISI Systemic AI Safety Call                                             2024 - 2025
+Reviewed applications for systemic AI safety research                                                                     UK
+
+S EMINARS AND I NVITED P RESENTATIONS
+CRUK-CI Lunch Seminar Series                                                                                        Mar 2026
+Foundation Models Across Biological Scales: From Imaging to scRNA-seq and Back
+Presented work on bioinformatics foundation models in imaging and omics, and on the use of explanations to identify new
+markers. Cambridge, UK.
+Invited Speaker, IJCNN 2025: AI for a Cooler Planet                                                                   Jul 2025
+Explainable and Interpretable AI: From Interpretation to New Pattern Discovery
+Presented work on explainable AI and the use of explanations to identify new markers. Rome, Italy.
+Presenter, RadNet Cambridge and CRUK Children’s Brain Tumour Centre of Excellence                                    Feb 2025
+Explainable and Interpretable AI: Enhancing Trust and Identifying Patterns in Healthcare and Neuroscience
+Presented to early-career researchers across cancer research, with a focus on brain cancer and neuroscience. Cambridge, UK.
+Presenter, Cambridge Accelerate Lunchtime Seminar Series                                                             Feb 2024
+3D Explainability Frameworks
+Presented work on a 3D explainability framework. Cambridge, UK.
+Presenter, Cambridge Centre for AI in Medicine Summer School                                                         Sep 2023
+Medical Imaging and 3D Explainability
+Presented work on medical imaging and 3D explainability (summer school link). Cambridge, UK.
+Organiser and Presenter, CHIA and AstraZeneca Workshop on Trustworthy AI in Imaging                                  Sep 2023
+Trustworthy AI in Imaging
+Organised and presented at a medical-imaging AI workshop (workshop link). Cambridge, UK.
+Lecturer, Sano/Insigneo Researcher Training Seminar                                                                  Oct 2022
+Medical-Imaging AI, Explainability and Uncertainty Estimation
+Delivered a one-hour lecture on medical-imaging AI, explainability and uncertainty estimation. Sheffield, UK.
+
+T EACHING E XPERIENCE
+L205 ACS MPhil Course, Department of Computer Science                                                               Lent 2026
+Course director, main lecturer, organiser and marker                                            University of Cambridge, UK
+Java Programming, Department of Computer Science                                                                   2 semesters
+Lab demonstrator and assessment marker                                                            University of Sheffield, UK
+COM6103 Team Software Project, Department of Computer Science                                                      2 semesters
+Agile methods, Scrum and team supervision                                                         University of Sheffield, UK
+COM161/COM160 Introduction to Programming, Department of Computer Science                                          2 semesters
+Tutorial teaching                                                                                 University of Sheffield, UK
+COM4509/6509 Machine Learning and AI, Department of Computer Science                                                1 semester
+Lab demonstrator and assessment marker                                                            University of Sheffield, UK
+
+
+
+
+                                                              4
+ACS341 Machine Learning, Department of Automatic Control and Systems Engineer-                                            2 semesters
+ing
+Lab demonstrator, teaching assistant and assessment marker                                              University of Sheffield, UK
+ACS233 C++ Programming, Department of Automatic Control and Systems Engineer-                                             2 semesters
+ing
+Lab demonstrator and teaching assistant                                                                 University of Sheffield, UK
+
+F UNDING AND G RANT E XPERIENCE
+EPSRC Access to High Performance Computing Facilities                                                                       Apr 2024
+Awarded                                                                                                                             UK
+UKRI Access to High Performance Computing Facilities, APP94963                                                              Dec 2025
+Awarded for From MRI to Multi-Omics: An Explainable Foundation Model for Brain Cancer                                               UK
+BioBANK-DATASET access, Collaborator , ID759242                                                                            Mar 2026
+Awarded for Personalized prediction of cognitive impairment among patients with cardiovascular disease using known risk             UK
+factors, omics, and imaging- a multicohort analyses within the DORIAN GRAY project
+BioBANK-DATASET access, Collaborator , ID20904                                                                             Mar 2026
+Awarded for Genetic and phenotypic investigation of neural brain network connectivity                                               UK
+
+H ONOURS AND AWARDS
+IEEE TMI Distinguished Reviewer, Gold Level                                                                                 Oct 2024
+Recognised after completing nine reviews between Sep 2023 and Oct 2024
+Top-10 and Top-5 Team Placements, AIIB MICCAI Challenge 2023                                                               Aug 2023
+Led a team of PhD students in two AI/ML medical computer-vision challenge tasks: airway-lung segmentation
+and survival prediction
+CRUK Cambridge Centre Training Programme Postdoctoral Mini-Grant                                                           May 2023
+Shortlisted project for undergraduate selection: AI/ML medical imaging for brain tumours and federated learning
+(programme link)
+Winning Team, AI vs COVID-19 UK Hackathon                                                                                   Apr 2020
+Member of the winning team among 20 participating teams in a high-profile multi-day virtual hackathon
+University of Sheffield Department of Computer Science PhD Scholarship                                                      Apr 2018
+42-month PhD scholarship
+
+M EMBERSHIPS AND A FFILIATIONS
+Insigneo Institute                                                                                                        2018 - 2022
+Member as a PhD student and postdoctoral researcher at the University of Sheffield
+Centre for Human-Inspired Artificial Intelligence                                                                    2023 - Present
+Postdoctoral member, University of Cambridge
+Cambridge Centre for AI in Medicine                                                                                  2024 - Present
+Postdoctoral member, University of Cambridge
+Cambridge Neuroscience                                                                                               2022 - Present
+Member, University of Cambridge (member profile)
+CRUK Children’s Brain Tumour Centre of Excellence                                                                    2025 - Present
+Postdoctoral Transition Fellow (centre website)
+
+E DITORIAL E XPERIENCE
+Guest Editor
+Computerized Medical Imaging and Graphics, Elsevier
+Special issue: Computerized Approaches for the Development of AI-Based Clinical Decision-Support Systems Integrated into Clinical
+Practice (special issue link).
+
+
+
+
+                                                                 5
+

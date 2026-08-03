@@ -1,0 +1,165 @@
+                                                                              Future Research Plan | Dr. Michail Mamalakis
+
+
+
+
+                       Explainable Multiscale AI for Brain Cancer
+                         From imaging phenotypes to treatment-resistant cellular states
+
+My programme will address one biologically anchored question: can shared representations across MRI,
+tissue architecture and gene regulation identify and mechanistically explain cellular states associated with
+progression, relapse and treatment resistance in paediatric brain tumours? The initial disease focus will be
+paedriatic ependymoma, Choroid Plexus Carcinoma (CPC), and medulloblastoma and adult glioma will
+provide a later test of generalisability. This focus builds on nine years of research in medical imaging,
+explainable AI and computational biology, and on my current work in paediatric brain cancer, foundation
+models and cross-scale representation learning [1–6].
+Central hypothesis. A cross-scale model that links imaging, histology and cellular programmes will predict
+clinically or biologically defined tumour states more accurately and recover more stable, biologically
+coherent features than matched unimodal models. The hypothesis will not be supported if the integrated
+model fails to improve prespecified held-out performance and calibration, recover established tumour
+signatures or known therapeutic targets, or produce explanations that remain stable across sites and
+batches. However, the existing literature and evidence from multimodal AI modelling strongly support this
+hypothesis.
+Aim 1 — Explainable MRI foundation model for paediatric and adult brain tumours
+Biological question: Which MRI-derived phenotypes reproducibly mark tumour state, progression and
+treatment-related outcomes across paediatric and adult brain tumours?
+Starting data: An existing 3D MRI foundation model trained on more than 425,000 structural and diffusion
+scans; ABCD and UK Biobank pretraining cohorts; brain-tumour cohorts used in my Cambridge work;
+Professor Stephen Price’s collected imaging dataset; and public Cancer Imaging Archive cohorts for
+independent benchmarking. Only datasets with confirmed permissions and sufficiently defined labels will
+enter each analysis.
+Methodological advance: I will adapt the developed continual-learning and latent-diffusion framework to
+neuro-oncology and pair it with explainability-first evaluation. Unlike a generic imaging encoder, the model
+will be required to retain prior knowledge from large pretraining cohorts while adapting to paediatric and
+adult brain tumours. It will produce sparse, stable and faithful explanations that identify anatomically
+relevant MRI regions for subsequent investigation using histology and molecular data in Aims 2 and 3.
+Benchmark and validation: Comparators will include supervised 3D CNN/transformer models, self-
+supervised imaging encoders and single-site fine-tuning. Evaluation will use patient-level, site-held-out and
+temporal splits where available, with calibration, bootstrapped confidence intervals and subgroup analysis.
+Candidate MRI regions will be compared with known anatomy and available pathology, treatment and
+outcome labels; claims beyond association will not be made.
+Delivery, people and decision point: Postdoctoral scientist 1 and PhD student 1 will lead model adaptation
+and interpretability. By year 2: a locked imaging benchmark, governance record and externally tested
+encoder. If cross-site transfer is weak, the fallback is domain-specific adapters and federated or site-
+stratified training rather than a single universal model.
+Aim 2 — Link histological phenotypes to gene dynamics and treatment-resistant cellular states
+Biological question: Which gene programmes, cell-state transitions and histological phenotypes distinguish
+progression, treatment resistance and relapse from developmental or batch-related variation?
+Starting data: Ongoing murine ependymoma and CPC work, paediatric tumour single-cell and histology data
+available through my collaboration with Professor Richard Gilbertson’s laboratory, and public scRNA-seq
+and spatial-transcriptomic benchmarks. Preliminary analyses recover known ependymoma genes, providing
+feasibility evidence rather than a completed discovery.
+
+
+                                                       1
+                                                                             Future Research Plan | Dr. Michail Mamalakis
+
+
+
+Methodological advance: Graph-based embeddings and transformer representations will model changes in
+gene–gene context across developmental and disease states. Histology encoders will quantify tissue
+morphology and spatial organisation, allowing molecular programmes and cellular neighbourhoods to be
+linked to observable tissue phenotypes through interpretable latent representations. The novelty lies in
+linking dynamic gene function—not expression alone—to spatial and morphological evidence.
+Benchmark and validation: Comparators will include differential-expression, pathway-enrichment,
+pseudotime, established graph-based single-cell methods and histology-only encoders. Validation will test
+recovery of established ependymoma and medulloblastoma programmes, replication across datasets and
+agreement between molecular programmes, cellular neighbourhoods and histological localisation.
+Experimental follow-up will be co-designed with biological collaborators and described as a commitment
+only after the relevant assay, material and responsibility are formally agreed.
+Delivery, people and decision point: Postdoctoral scientist 2 and PhD student 2 will lead histology, cellular
+and spatial modeling, supported by the technician for sample metadata and reproducible processing. By
+year 3: validated gene-dynamic and histology models and a prioritized set of replicated candidate
+programmes linked to tissue context. If temporal labels are insufficient, the fallback is cross-sectional state-
+transition modelling with explicitly limited causal claims.
+Aim 3 — Integrate MRI, histology and molecular structures across biological scales
+Biological question: Do MRI phenotypes encode histological, molecular and cellular states associated with
+progression or treatment resistance, and are those links reproducible in unseen cohorts?
+Methodological advance: Rather than concatenate modalities, the model will align the MRI representations
+developed in Aim 1 with the histological, cellular and gene-regulatory representations developed in Aim 2,
+using cross-attention and modality-aware objectives. Missing-modality training will permit inference when a
+patient lacks one data type. The key output will be an auditable association between a macroscopic imaging
+phenotype, tissue morphology and a replicated cellular programme—not an unsupported simulation of
+treatment response.
+Benchmark and validation: The integrated model will be compared with each unimodal model, late fusion
+and matched multimodal baselines. Primary endpoints will be limited to labels actually available—such as
+tumour class, progression/relapse status or treatment-related outcome—and prespecified before fitting.
+External validation will use held-out public or collaborator cohorts; prospective clinical evaluation will be
+pursued only after retrospective performance, calibration and governance criteria are met.
+Delivery, people and decision point: The full team will integrate the modalities under my direction. By year 5:
+an externally validated cross-scale framework, open evaluation protocols where permissions allow, and
+experimentally prioritised hypotheses. If integration does not outperform the best unimodal model, the
+deliverable will be a modular decision-support research tool that reports modality-specific evidence and
+uncertainty rather than forcing fusion.
+
+Robustness, responsible AI and statistical strategy
+Before each study, label prevalence and missingness will determine the analysis population, split strategy
+and sample-size or detectable-effect calculation. Batch and site effects will be measured explicitly;
+harmonisation will be learned within training folds, never across the full dataset. Patient-level separation,
+nested validation, site-held-out testing, sensitivity analysis and bootstrapped uncertainty will reduce leakage
+and overinterpretation. Modality dropout and missingness indicators will address incomplete records.
+Governance will include data minimisation, access controls, documented provenance, model cards,
+subgroup performance, bias assessment and auditable versioning. Clinical utility will not be claimed without
+independent and, where appropriate, prospective evaluation.
+Independence, collaboration and Manchester fit
+The programme’s independent identity is the explainability-first connection of imaging phenotypes to
+dynamic cellular programmes. My existing relationships will provide continuity without defining the
+
+                                                       2
+                                                                                            Future Research Plan | Dr. Michail Mamalakis
+
+
+
+Manchester group’s agenda. Collaboration with Professor Pietro Liò’s group in Cambridge Computer Science
+supports methodological exchange, while Professor Richard Gilbertson’s laboratory provides paediatric
+tumour expertise, models and datasets for initial biological grounding. Professor Stephen Price’s imaging
+dataset and my already-trained foundation model provide a practical starting point. These external links will
+complement—not replace—Manchester-generated collaborations, data and validation.
+At Manchester, I would develop specific prospective links with experimental researchers at CRUK MI, the
+MCRC Biobank and clinical teams at The Christie. BRAINatomy 2 provides a particularly relevant opportunity:
+the programme has received a second investment, is co-led by Professor Martin McCabe, and applies
+advanced image-based analysis to understand the effects of paediatric proton therapy and protect sensitive
+brain regions [7]. Professor Marianne Aznar’s imaging methodology and the programme’s links across The
+Christie, Royal Manchester Children’s Hospital and international centres offer a concrete setting in which to
+explore external imaging validation and treatment-related outcomes, subject to agreement with its
+investigators. The ELLIS Unit Manchester, Centre for AI Fundamentals and Christabel Pankhurst Institute
+provide complementary expertise in foundation models and trustworthy AI.
+Programme management and funding strategy
+The core-funded team will comprise two postdoctoral scientists, two PhD students and one technician. I will
+lead scientific integration, recruitment, prioritisation and annual go/no-go reviews. Postdoctoral scientist
+1/PhD student 1 will own imaging and interpretability; postdoctoral scientist 2/PhD student 2 will own
+single-cell, spatial and cross-scale modelling; the technician will support data curation, governance and
+reproducible pipelines. Years 1–2 establish benchmarks and Aim 1; years 1–3 deliver Aim 2 and locked cross-
+scale protocols; years 3–5 deliver external validation and generalisation to adult glioma.
+My funding trajectory begins with awarded EPSRC and UKRI access to high-performance computing,
+including From MRI to Multi-Omics: An Explainable Foundation Model for Brain Cancer, and collaborator
+status on two awarded biobank-data access applications. At Manchester, early benchmark and biological-
+validation outputs will support a UKRI application, primarily to EPSRC, for the multiscale AI framework.
+Subsequent applications will be staged around independently validated imaging and cell-state outputs
+rather than the entire programme at once, complementing CRUK MI core support.
+Expected contribution
+By year 5, the programme will have tested a clear biological hypothesis, delivered externally evaluated
+methods and produced replicated, interpretable links between tumour imaging, tissue structure and cellular
+programmes. The long-term objective is not just an autonomous clinical co-pilot, but a trustworthy research
+framework that helps cancer biologists and clinicians prioritise testable mechanisms and candidate
+biomarkers while making uncertainty and evidential limits explicit.
+
+Selected references
+[1] Mamalakis M. et al. A Transparent Artificial Intelligence Framework to Assess Lung Disease in Pulmonary Hypertension. Scientific
+   Reports 13, 3812 (2023). doi:10.1038/s41598-023-30503-4.
+[2] Mamalakis M. et al. Solving the Enigma: Deriving Optimal Explanations of Deep Networks. AI Open (2025).
+   doi:10.1016/j.aiopen.2025.02.001.
+[3] Mamalakis M. et al. Artificial Intelligence Framework for Automatic Segmentation of Left Ventricle with Scar. Artificial
+   Intelligence in Medicine 143, 102610 (2023). doi:10.1016/j.artmed.2023.102610.
+[4] Jimenez-Mesa C. et al., including Mamalakis M. Uncovering Neuroimaging Biomarkers of Brain Tumor Surgery with AI-Driven
+   Methods. arXiv:2507.04881 (2025).
+[5] Sansone G. et al., including Mamalakis M. Longitudinal functional-connectivity markers in glioma. Neuro-Oncology (2024).
+[6] Mamalakis M. et al. A Monosemantic Attribution Framework for Stable Interpretability in Clinical Neuroscience Large Language
+   Models. arXiv:2601.17952 (2026).
+[7] Manchester Cancer Research Centre. BRAINatomy 2: second US$5m investment in paediatric brain-tumour research (accessed
+   July 2026). https://www.mcrc.manchester.ac.uk/brainatomy-2/.
+[8] The Cancer Imaging Archive. Public cancer-imaging collections. https://www.cancerimagingarchive.net/.
+
+
+                                                                 3
+

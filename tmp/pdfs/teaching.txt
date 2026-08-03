@@ -1,0 +1,120 @@
+                                           Teaching Statement
+             Dr Michail Mamalakis | Associate Professor (Research and Education) in Computer Science
+Teaching philosophy. My teaching is research-informed, application-driven and centred on helping students
+become independent, critical and responsible computer scientists. I use authentic problems to connect
+mathematical and computational principles with implementation, evaluation and societal consequences. In artificial
+intelligence, particularly when methods are applied to health and science, students should learn not only how to
+build a model, but also how to test whether it is robust, interpretable, reproducible and appropriate for its intended
+use. My aim is to create an inclusive learning environment in which students with different disciplinary backgrounds
+can develop technical confidence, ask difficult questions and apply computer science rigorously.
+
+1. Evidence of teaching and curriculum leadership
+Current module leadership at Cambridge. As an Affiliated Lecturer in the University of Cambridge Department of
+Computer Science and Technology, I am Course Director and lead lecturer for Principles of AI-driven Neuroscience
+and Translational Biomedicine (L205), offered to MPhil in Advanced Computer Science and Part III students (under
+the supervision of Professor Pietro Lio, DoT). I organise the module, design and prepare the majority of its teaching,
+deliver lectures, develop learning materials, support student projects and contribute to assessment. The module
+comprises eight two-hour in-person sessions and brings together deep learning, graph neural networks,
+transformers, agentic methods, explainable and mechanistic AI, neuroimaging, connectomics and translational
+biomedicine (link of the course developed by me:https://ece7048.github.io/L205_site/ )
+Curriculum design. I structure the curriculum so that foundational ideas lead progressively to advanced methods
+and then to critical application. Students first establish a common conceptual vocabulary across AI and
+neuroscience; they then examine modern architectures and interpretation methods; finally, they apply these tools to
+realistic biomedical questions and evaluate limitations. This sequencing is particularly important in interdisciplinary
+cohorts, where students may be strong in computer science but unfamiliar with neuroscience, or conversely
+knowledgeable about biomedicine but less experienced in machine learning. I use worked examples, visual
+explanations, short technical exercises and guided discussion to make assumptions explicit and to prevent
+advanced terminology from becoming a barrier to participation.
+Assessment and feedback. The module uses an authentic group mini-project alongside an individual presentation
+and viva. This combination tests collaborative problem solving while preserving individual accountability and the
+ability to explain technical decisions. I guide students to define a tractable research question, select appropriate
+baselines, avoid data leakage, report uncertainty and distinguish predictive association from stronger scientific or
+clinical claims. Feedback is provided through project discussions, office hours and assessment, with emphasis on
+specific actions that improve technical reasoning, communication and reproducibility.
+Breadth of teaching experience. At the University of Sheffield, I taught across programming, software engineering
+and machine learning. My roles included laboratory demonstration, tutorials, project support and assessment in Java
+Programming, C++ Programming, Introduction to Programming, Machine Learning and AI, ACS341 Machine Learning
+and the COM6103 Team Software Project. In the team project, I supported Agile practice and Scrum-based
+collaboration. These experiences developed my ability to explain core computational concepts, diagnose
+misconceptions in code, support students with varied prior experience and assess both individual and team-based
+work.
+
+2. Research-informed and inclusive teaching practice
+Connecting teaching and research. My teaching is informed by research in explainable AI, medical-image analysis,
+foundation models, neuroscience and multiscale biomedical data. I use research examples to show students how
+computer-science choices affect evidence: how split design can create leakage, how calibration differs from
+discrimination, why an explanation may be unstable, and when a complex multimodal model fails to outperform a
+simpler baseline. This approach develops methodological judgement rather than encouraging students to reproduce
+fashionable architectures without adequate evaluation.
+Active and authentic learning. I favour learning activities that require students to make and defend decisions. In
+lectures and workshops, students compare alternative model designs, identify threats to validity, interpret
+visualisations and discuss ethical or deployment constraints. In project work, I encourage reproducible workflows,
+clear division of responsibilities and regular reflection on whether the evidence supports the claim. My invited
+teaching at the Sano/Insigneo researcher training seminar, the Cambridge Centre for AI in Medicine Summer School
+and the Trustworthy AI in Imaging workshop has further developed my ability to adapt technical material for
+audiences ranging from computer scientists to clinicians and biomedical researchers.
+Inclusive teaching. Interdisciplinary teaching requires deliberate inclusion. I introduce specialist language carefully,
+provide multiple routes into a topic and make expectations for technical work transparent. I use examples from
+different application areas and invite students to question data quality, representation, bias and the consequences
+of model failure. For group work, I encourage defined roles, documented contributions and rotation of
+responsibilities so that technical confidence or prior disciplinary status does not determine who participates. I would
+continue to develop accessible digital resources, clear assessment criteria and opportunities for formative feedback,
+while using student feedback and performance evidence to refine the curriculum.
+
+3. Supervision, mentoring and student development
+Research supervision. I currently lead and advise researchers across projects in MRI foundation models, paediatric
+brain cancer, single-cell and histology-informed modelling, and neuroscience. I also co-supervise a PhD researcher
+in the Department of Psychiatry and support postgraduate students working across computer science and clinical
+disciplines. My supervision approach combines clear milestones with intellectual independence: students are
+expected to understand the assumptions behind a method, maintain reproducible records, present negative as well
+as positive results and develop a publication strategy appropriate to the maturity of the work.
+Mentoring through collaborative challenges. I led a team of three PhD students in the 2023 AIIB MICCAI medical
+computer-vision challenge, where the team achieved top-ten and top-five placements across segmentation and
+survival-prediction tasks. The educational value of this experience extended beyond the ranking: students had to
+plan experiments, allocate work, evaluate competing models and communicate decisions under time constraints. I
+use this type of project to develop technical independence, teamwork and professional research practice.
+Assessment and examining. My examining experience includes an internal PhD viva, a PhD first-year report and an
+external MSc viva. These roles have strengthened my understanding of progression standards, constructive
+questioning and fair assessment. They also inform how I prepare students to explain the originality, limitations and
+contribution of their work.
+
+4. Contribution to education at Birmingham
+Teaching contribution. At Birmingham, I would contribute across undergraduate and postgraduate teaching in
+artificial intelligence, machine learning, deep learning, computer vision, programming and research methods. I could
+also support interdisciplinary teaching in explainable AI, computational neuroscience, biomedical data science and
+AI for scientific discovery. My experience across introductory programming, team software projects and advanced
+postgraduate AI would allow me to teach at multiple levels and to connect foundational computer science with
+contemporary research.
+Proposed curriculum development. A module I would be well placed to develop is Trustworthy AI for Health and
+Scientific Discovery. The module would treat healthcare as a demanding testbed for broadly applicable computer-
+science principles rather than as a narrow application course. Topics would include robust evaluation, uncertainty
+and calibration, explainability and mechanistic interpretability, multimodal learning, dataset shift, reproducibility,
+fairness, governance and human oversight. Practical work would require students to compare baselines, audit failure
+modes and communicate evidence to technical and non-technical audiences. The same principles would transfer to
+cyber-physical, scientific and other high-consequence AI systems.
+Educational leadership and enhancement. I would contribute to module and programme review, assessment
+design, student recruitment, project supervision and the development of inclusive digital learning resources. I would
+seek student input when refining project topics and assessment guidance, and would evaluate changes using
+student feedback, attainment patterns and the quality of submitted work. I also intend to develop a stronger
+education-scholarship profile by systematically evaluating research-informed teaching interventions and sharing
+effective practice through internal forums and appropriate external venues. As my experience grows, I would support
+colleagues through mentoring, shared teaching resources and collaborative curriculum development.
+Student experience and employability. My teaching would emphasise skills that students can demonstrate beyond
+the classroom: collaborative software development, reproducible experimentation, critical evaluation, technical
+writing, oral defence and responsible decision-making. Where appropriate, I would develop projects with
+researchers, clinicians or industry partners, ensuring that external engagement supports clear learning outcomes
+and equitable access. This would help students understand how high-quality computer science is practised in
+multidisciplinary settings and prepare them for research and professional careers.
+5. Reflection and future development
+My current profile combines broad teaching experience with recent module-level leadership in an advanced
+interdisciplinary area. I recognise that sustained educational leadership requires continued development, evidence
+and reflection. I therefore intend to strengthen my practice through peer observation, structured analysis of student
+feedback and attainment, formal professional development in higher-education teaching, and dissemination of
+evidence about what improves learning. My objective is to contribute as a generous academic citizen: teaching my
+own modules well, supporting students and colleagues, and helping the School maintain curricula that are
+contemporary, inclusive, intellectually demanding and connected to its research culture.
+Overall, I would bring to Birmingham experience spanning foundational programming, software-team education,
+advanced AI, neuroscience and translational biomedicine; evidence of curriculum and assessment responsibility;
+experience mentoring postgraduate researchers; and a clear commitment to responsible, research-led and inclusive
+education.
+

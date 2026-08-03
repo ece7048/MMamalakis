@@ -1,0 +1,96 @@
+                                                                          Group Leader - Computational Biology and AI | MI/26/25a
+
+
+                                        DR MICHAIL MAMALAKIS
+                                                    Cover Letter
+                           Group Leader - Computational Biology and AI | Job Ref MI/26/25a
+
+                    mm2703@cam.ac.uk                                University of Cambridge / CRUK Cambridge Institute
+
+Dear Members of the Selection Committee,
+I am applying for the Group Leader - Computational Biology and AI position at the Cancer Research UK Manchester
+Institute. My research asks how explainable, multi-scale AI can connect imaging and tissue phenotypes with the
+cellular and molecular programmes that drive tumour heterogeneity and progression. I would establish a
+programme focused initially on paediatric and adult brain cancers, combining methodological innovation in
+foundation models and mechanistic interpretability with biologically grounded questions in imaging,
+histopathology, single-cell and spatial data.
+I am ready to make this transition because I have developed a coherent research direction, begun leading
+multidisciplinary projects around it, and moved from applying established medical-imaging methods to designing
+multi-scale learning systems. I am currently an Assistant Research Professor at the CRUK Cambridge Institute, a
+Postdoctoral Transition Fellow in the CRUK Children's Brain Tumour Centre of Excellence, and an Affiliated Lecturer
+in the University of Cambridge Department of Computer Science and Technology. My programme builds on nine
+years of work across deep learning, medical imaging, explainable AI, neuroscience and computational biology.
+Three achievements provide the foundation for the proposed group. First, I have developed and published
+explainability and medical-imaging methods, including work on transparent AI in pulmonary hypertension, cardiac
+image analysis frameworks, and stable explanations of deep networks. Second, I am leading and developing a large-
+scale MRI foundation model trained on more than 425,000 scans spanning structural and diffusion imaging. The
+project extends my work in representation learning, generative modelling and explainability and is planned for
+release in summer 2026. Third, my recent cancer-focused work includes multimodal modelling in paediatric brain
+tumours, a study of neuroimaging biomarkers following brain-tumour surgery, and collaborative Neuro-Oncology
+work on longitudinal functional-connectivity markers in glioma.
+My independent contribution is the intellectual thread linking these activities: explanations should be part of model
+design and biological discovery, rather than an audit added after prediction. I have pursued this through attribution
+stability, activation-gradient analysis, uncertainty quantification, representation learning and mechanistic
+interpretability. At finer biological scales, I am developing approaches that connect gene-level features with cellular
+and histological representations in paediatric brain cancer. These methods are intended to generate testable
+hypotheses about tumour progression and candidate biomarkers; clinical or therapeutic utility would require
+subsequent biological and clinical validation.
+I currently lead and advise researchers across two principal research programmes. The gene-, cell- and histology-
+level programme involves two PhD researchers and a bioinformatician in the Gilbertson laboratory. The MRI
+foundation-model programme involves a postdoctoral researcher based at the University of Málaga, Spain, and two
+PhD researchers from the University of Cambridge School of Clinical Medicine. I also co-supervise a Cambridge PhD
+researcher in the Department of Psychiatry who works in neuroscience. Our research on geometry-guided
+generative representations for functional brain graphs has been accepted at ICML 2026 (leading conference in
+computer science). As Module Director and lead lecturer for Principles of AI-driven Neuroscience and Translational
+Biomedicine (L205), part of the MPhil in Advanced Computer Science, I design the curriculum and teach, organise
+and assess the module. Together, these responsibilities demonstrate my experience in coordinating concurrent
+projects, mentoring researchers and advancing work from initial concept through validation to publication.
+At CRUK MI, the group's distinctive question would be: which shared representations across imaging, tissue
+architecture and gene regulation reveal mechanisms of tumour heterogeneity, progression and treatment
+resistance that cannot be identified from one modality alone? The initial programme would build from my current
+
+
+                                                  Dr. Michail Mamalakis
+                                                                               Group Leader - Computational Biology and AI | MI/26/25a
+
+
+work in ependymoma and Choroid Plexus Carcinoma, while developing methods that can extend to other
+paediatric and adult brain tumours. It would combine explainable imaging and histopathology models, temporal
+and spatial modelling of cellular programmes, and carefully validated cross-scale integration.
+Manchester offers a particularly strong setting for this programme because computational predictions can be
+tested through the connected cancer-research ecosystem. I would seek to maintain external links with Professor
+Pietro Liò's group in the University of Cambridge Department of Computer Science and Technology, developed
+through my research and Affiliated Lecturer position, and with Professor Richard Gilbertson's laboratory at the
+CRUK Cambridge Institute, where my current paediatric brain-tumour work is based. These relationships would
+provide a foundation for continued scientific exchange and collaboration as I establish an independent programme
+in Manchester, while complementing rather than replacing new local partnerships. I would seek collaboration with
+experimental and translational researchers at CRUK MI, use the Manchester Cancer Research Centre Biobank and
+associated patient-sample resources where appropriate, and work with clinical collaborators through The Christie
+on biologically and clinically relevant validation. The ELLIS Unit Manchester, Centre for AI Fundamentals and
+Christabel Pankhurst Institute would provide complementary expertise in machine learning and trustworthy AI. This
+combination—not facilities alone—would allow the group to move iteratively between method development,
+biological testing and translational questions.
+I have begun building the funding and research-infrastructure experience needed for independence. I have
+received EPSRC and UKRI access to high-performance computing facilities, including an award for From MRI to
+Multi-Omics: An Explainable Foundation Model for Brain Cancer, and I am a collaborator on two awarded biobank-
+dataset access applications. I have also reviewed grant applications for EPSRC/UKRI, including the UK AI Safety
+Institute call. At Manchester, I would use the group’s initial methodological and cancer-biology outputs to develop
+a portfolio of competitive external funding that complements CRUK MI’s core support. My research vision is
+structured to support applications to UKRI, particularly the EPSRC, for the multiscale AI framework I am developing.
+The position therefore represents a timely next step: the opportunity to turn a coherent body of work in
+explainable biomedical AI into an independent, focused cancer-research programme. I would bring to CRUK MI an
+explainability-first approach to cross-scale modelling, experience coordinating multidisciplinary trustworthy AI
+projects, and a commitment to developing researchers while working closely with cancer biologists and clinicians. I
+would welcome the opportunity to discuss how this programme could contribute to CRUK MI's scientific strategy.
+Thank you for considering my application.
+Yours sincerely,
+
+Dr. Michail Mamalakis (PhD)
+Assistant Research Professor, CRUK Cambridge Institute | Postdoctoral Transition Fellow, CRUK Children's Brain Tumour Centre of
+Excellence | Affiliated Lecturer, University of Cambridge
+
+
+
+
+                                                       Dr. Michail Mamalakis
+
