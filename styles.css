@@ -380,6 +380,24 @@ h3 {
   margin-top: 24px;
 }
 
+.lecture-video {
+  align-items: start;
+  display: grid;
+  gap: 24px;
+  grid-template-columns: minmax(230px, 0.5fr) minmax(320px, 1fr);
+  margin-top: 24px;
+}
+
+.lecture-video video {
+  aspect-ratio: 16 / 9;
+  background: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  display: block;
+  width: 100%;
+}
+
 .course-actions {
   display: flex;
   flex-shrink: 0;
@@ -439,6 +457,7 @@ h3 {
   .research-layout,
   .interest-list,
   .publication-list,
+  .lecture-video,
   .teaching-grid,
   .service-grid {
     grid-template-columns: 1fr;

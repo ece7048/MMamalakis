@@ -8,6 +8,8 @@ Static academic personal site for Dr. Michail Mamalakis, built from the supplied
 - `styles.css` - responsive styling.
 - `assets/hero-biomedical-ai.png` - generated visual asset for the hero section.
 - `assets/Michail_Mamalakis_CV.pdf` - downloadable CV.
+- `assets/l205-teaching-highlights.mp4` - two-minute L205 teaching proof-of-concept reel.
+- `assets/l205-teaching-highlights-poster.jpg` - poster image for the teaching reel.
 - `tools/create_l205_highlights.sh` - FFmpeg script for generating a two-minute L205 teaching highlights reel.
 
 ## Create The L205 Highlights Video
